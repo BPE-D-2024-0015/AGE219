@@ -47,6 +47,5 @@ The SciPy linear regression output shows the overall trend trajectory line plott
 
 ---
 
-## Submission Registry
-To submit this project for formal academic grading, the course instructor is tagged below:  
+## Submission Registry  
 **Attention:** @kadefue
